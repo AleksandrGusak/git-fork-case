@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Run git remote -v command and store the output in a variable
+# Run git remote -v command and store the output in a variable Серьезная тема
 remote=$(git remote -v)
 
 # Extract the first line from the output
